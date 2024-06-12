@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laborel</string>
+    <string name="title_activity_compactacao">HILF</string>
+    <string name="title_activity_telainicial">laborel</string>
+    <string name="title_activity_compactaçâo">compactaçâo</string>
+    <string name="title_activity_cylinder_data">CylinderDataActivity</string>
+</resources>
